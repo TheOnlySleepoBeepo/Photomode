@@ -58,6 +58,25 @@
 
 <a href="https://i.imgur.com/e7jRjUs.png"><img src="https://i.imgur.com/e7jRjUs.png" title="source: imgur.com" /></a>
 
-# And thats a basic rundown on how to use the NPC Selector and NPC Pose Selector.
+## <ins>And thats a basic rundown on how to use the NPC Selector and NPC Pose Selector.</ins>
 
+
+# How To Setup Paired Poses
+
+## 1. Select the characters you want to use in your pair and then find a pose pack that has paired posing have pairing lettering to let you know its a pair pose pack:
+   **<ins>MF:</ins>** Male/Female<br>
+   **<ins>FF:</ins>** Female/Female<br>
+   **<ins>MBF:</ins>** Male Big/Female<br>
+<a href="https://i.imgur.com/tq5vHgV.png"><img src="https://i.imgur.com/tq5vHgV.png" title="source: imgur.com" /></a>
+
+2. In this example we will use this pose pack here (Make Sure Both Characters are using the same pose pack):
+<a href="https://i.imgur.com/31AVspv.png"><img src="https://i.imgur.com/31AVspv.png" title="source: imgur.com" /></a>
+
+## 3.Once you select the poses your characters may not be line up correctly like this:
+<a href="https://i.imgur.com/HNzmWvk.png"><img src="https://i.imgur.com/HNzmWvk.png" title="source: imgur.com" /></a>
+
+## 4. To make the characters pair correctly you need to make sure in the Position UI they are line up exactly the same:
+<a href="https://i.imgur.com/GxR7Un9.png"><img src="https://i.imgur.com/GxR7Un9.png" title="source: imgur.com" /></a>
+
+# You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.
 
