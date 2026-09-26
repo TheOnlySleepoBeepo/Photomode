@@ -39,6 +39,25 @@
   4. **<ins>Character Selection:</ins>** This drop down box lets you select your PC and NPC's you have in the scene.
   5. **<ins>Favorites:</ins>** The Star button lets you favorite pose packs and poses so you don't have to go searching for them. Clicking on the favorites box will remove everything but your favorites for easy choosing.
   6. **<ins>Look At Camera:</ins>** This option will let you choose how you want your PC or NPC to face the camera.
-  7. **<ins>Position UI:</ins>**This is where you can move both PC and NPC's as if you where in normal Photomode. Keep in mind this is only moving the Characters not the camera you need to leave CET to move the camera.
+  7. **<ins>Position UI:</ins>** This is where you can move both PC and NPC's as if you where in normal Photomode. Keep in mind this is only moving the Characters not the camera you need to leave CET to move the camera.
 
 <a href="https://i.imgur.com/2iafx1X.png"><img src="https://i.imgur.com/2iafx1X.png" title="source: imgur.com" /></a>
+
+## 3. Select your Character then select your pose pack (You will see the Character default to the first pose in the pack):
+
+<a href="https://i.imgur.com/0RW0ft8.png"><img src="https://i.imgur.com/0RW0ft8.png" title="source: imgur.com" /></a>
+
+## 3a. Select the pose button then choose your pose:
+<a href="https://i.imgur.com/9TWI1CR.png"><img src="https://i.imgur.com/9TWI1CR.png" title="source: imgur.com" /></a>
+
+## 3b. Use the Position UI to move the character to how you want them:
+<a href="https://i.imgur.com/tYOOXQ7.png"><img src="https://i.imgur.com/tYOOXQ7.png" title="source: imgur.com" /></a>
+
+## 3c. Choose your expression:
+<a href="https://i.imgur.com/QsxmfwF.png"><img src="https://i.imgur.com/QsxmfwF.png" title="source: imgur.com" /></a>
+
+<a href="https://i.imgur.com/e7jRjUs.png"><img src="https://i.imgur.com/e7jRjUs.png" title="source: imgur.com" /></a>
+
+# And thats a basic rundown on how to use the NPC Selector and NPC Pose Selector.
+
+
